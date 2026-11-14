@@ -1,3 +1,9 @@
+// Exceeding core requirements:
+// 1. The program includes five different scriptures.
+// 2. A random scripture is selected every time the program starts.
+// 3. Three random words are hidden whenever the user presses ENTER.
+// 4. The program displays a congratulations message when all words are hidden.
+
 using System;
 using System.Collections.Generic;
 
